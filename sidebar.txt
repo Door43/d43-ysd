@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ysd:home|Door43 (ysd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ysd|d43-ysd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ysd/archive/master.zip|d43-ysd.zip]]
+
+**Recent Changes**
+{{changes>ns = ysd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ysd|Ethnologue data]]
+
